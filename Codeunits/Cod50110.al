@@ -11,6 +11,12 @@ codeunit 50110 Connect
         
     end;
 
+    local procedure MyProcedure3();
+    var
+        myInt : Integer;
+    begin
+        
+    end;
     var
         myInt : Integer;
 }
